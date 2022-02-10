@@ -97,3 +97,12 @@ hr {
         text-align: justify
        }
 }
+
+pre {
+    color:rgb(255, 255, 255);
+}
+
+.progress-bar {
+    background-color: rgb(16, 16, 70);
+    margin: 1px;
+}
